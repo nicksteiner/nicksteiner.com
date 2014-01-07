@@ -1,4 +1,5 @@
-nicksteiner.com www.nicksteiner.com
-===============
+nicksteiner.com
+=============
 
-Personal Landing Page
+* Personal Landing Page
+* Based on: http://www.getskeleton.com/
