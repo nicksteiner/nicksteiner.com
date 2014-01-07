@@ -1,4 +1,4 @@
 nicksteiner.com
 ===============
 
-Landin Page
+Personal Landing Page
