@@ -1,4 +1,4 @@
-nicksteiner.com nicksteiner.com
+nicksteiner.com www.nicksteiner.com
 ===============
 
 Personal Landing Page
